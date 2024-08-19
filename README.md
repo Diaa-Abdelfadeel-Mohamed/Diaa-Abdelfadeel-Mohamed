@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Diaa-Abdelfadeel-Mohamed
+# 👋 Hi, I’m Diaa Abdelfadeel
 
 A passionate Software Engineer and Software Testing Engineer from Egypt, always happy to learn new things and technics in software testing field
 
